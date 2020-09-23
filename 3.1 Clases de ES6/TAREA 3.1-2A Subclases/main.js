@@ -1,5 +1,8 @@
 'use strict';
 
+// https://books.adalab.es/materiales-front-end-i/modulo-3.-react/3_1_clases_es6#ejercicio-bonus-a
+
+
 // Perimetro: multiplica la longitud del lado por el número de lados.
 // Área: eleva al cuadrado el lado.
 
